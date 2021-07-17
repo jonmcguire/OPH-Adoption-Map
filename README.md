@@ -6,5 +6,5 @@ Python Packages used:
 Folium- interactive map
 zipcodes- used to cross reference zip codes with data and data clean
 pandas- dataframes
-❮img src="OPH-Adoption-Map/1.png" ❯
-❮img src="OPH-Adoption-Map/2.png" ❯
+❮img src="1.PNG" ❯
+❮img src="2.png" ❯
