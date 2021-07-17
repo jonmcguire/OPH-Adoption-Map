@@ -4,8 +4,11 @@ Map contains an interactive zip code map showing different filters such as: All 
 
 Python Packages used:
 Folium- interactive map
+
 zipcodes- used to cross reference zip codes with data and data clean
+
 pandas- dataframes
+
 
 ![alt text](1.PNG)
 
